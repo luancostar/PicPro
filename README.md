@@ -1,6 +1,7 @@
 # PicPro
 
-Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie Academy Brasil em parceria com o PicPay.
+Este projeto foi desenvolvido utilizando html, css e javascript. 
+O PicPro foi realizado através de uma parceria entre a PicPay e a Kenzie Academy Brasil. Foram 4 dias de projeto e muito aprendizado.
 
 ## Ferramentas
 
